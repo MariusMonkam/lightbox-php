@@ -2,7 +2,7 @@
       <hr />
 
       <div class="container">
-        <span>Awesome Footer 2017</span>
+        <span>©Marius Monkam 2020</span>
       </div>
     </footer>
 
